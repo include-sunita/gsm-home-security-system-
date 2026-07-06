@@ -4,23 +4,7 @@ A low-cost, internet-free home security system built with an **Arduino Uno**, a 
 
 > Submitted for CSE-211 & CSE-201 (Computer System Organisation and Architecture), IIT (BHU) Varanasi.
 
----
 
-## Demo Video
-
-<!--
-  HOW TO ADD YOUR VIDEO:
-  1. Go to this repo on GitHub.com, open any Issue (or create a new one) or edit this README directly in the GitHub web editor.
-  2. Drag and drop your video file into the comment/edit box.
-  3. GitHub will upload it and auto-insert a link like:
-     https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-  4. Copy that generated markdown (it looks like a video tag or plain link) and paste it below, replacing this comment.
-  This is the only reliable way to get a playable video embedded directly in a GitHub README.
--->
-
-**[📹 Add your demo video here — see instructions above]**
-
----
 
 ## Overview
 
